@@ -1,0 +1,32 @@
+h1{
+    font-size: 200%;
+}
+li {
+    font-size: 185%;
+}
+
+h2{
+    font-size: 200%;
+}
+
+table, tr, td{
+    border: 2px solid black;
+    padding: 3px;
+    border: 1px solid black;
+    text-align: center;
+}
+
+td{
+    padding: 3px;
+    border: 1px solid black;
+}
+
+img{
+    width: 60px;
+    height: 45px;
+}
+
+
+
+
+
